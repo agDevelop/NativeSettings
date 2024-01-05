@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["Native_settingsModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.native_settings.Native_settingsModule"]
+  }
+}
